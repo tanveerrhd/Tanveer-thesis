@@ -50,7 +50,7 @@ Here is the Proposed methodology flow
 
 A straight section within two BRT stations which are at grade can be chosen, the length will be nearly 500m to less than 1000m. This section should preferably have a footover bridge which can be used for mounting camera for video recording. The place has to be chosen after physical visit. On a different note, the height of a foot over bridge might not be adeqaute for computing TTC, a higher would be better, in that case a camera installed on a near by  building adjacent to the road, however, its feasibilty has to be evaluated with field trip.   
 
-Although the BRT operation is highly unlikely to commence in immediate future, all the lanes are functional. The present chaotic nature of the traffic condition still makes it am interesting case for evaluation.
+Although the BRT operation is highly unlikely to commence in immediate future, all the lanes are functional. The present chaotic nature of the traffic condition still makes it an interesting case for evaluation.
 
 ### Decide on pre study trip in Bangladesh
 I believe a preliminary study is necessary to obtain initial information for assessing data availability, site suitability, and the data acquisition process. Visits to relevant agencies, including the Roads and Highways Department, Dhaka BRT, the Road Transport and Highways Division, and the Dhaka Transport Coordination Authority, as well as potential candidate highway sections, will help me evaluate the quality and accessibility of available data. This will provide a clearer basis for further refining and consolidating my research plan.
